@@ -7,7 +7,7 @@ To run this project first run this command:
 ``` bash
 npm install
 ```
-This will all the required packages for this project
+This will install all the required packages for this project
 
 now to start server locally run this command:
 
