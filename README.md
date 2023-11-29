@@ -24,6 +24,9 @@ You can even send your own customurl!
 }
 
 you will recieve a short url in the response. 
+This url has an expiry of 1 minute.
 
 To open the shorten url just copy and paste the shortened url in any browser. It will redirect to the original url link.
 
+
+if you send any url which is invalid or any custom url which is already taken or if you try to access a short url which has expired then appropriate errors will come.
